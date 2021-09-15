@@ -1,0 +1,46 @@
+.form {
+    margin-top: 200px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: flex-end;
+}
+
+.form__input {
+    width: 60%;
+    margin-bottom: 30px;
+}
+
+.form__input input {
+    width: 100%;
+    padding: 10px 0 10px 10px;
+    border: 1px solid #000000;
+    background: #C4C4C4;
+}
+
+.form__input input:focus {
+    outline: none;
+}
+
+.form__input input::placeholder {
+    font-weight: 500;
+    color: #000000;
+
+}
+
+.form__btn {
+    width: 60%;
+}
+
+
+.form__btn button {
+    width: 100%;
+    border: 1px solid #FFFFFF;
+    font-weight: bold;
+    padding: 10px 0 10px 10px;
+    background: #FFFFFF;
+    color: #000000;
+}

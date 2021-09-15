@@ -1,0 +1,42 @@
+.links {
+    background: #505050;
+    padding: 71px 0;
+}
+
+.links .container {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 40px;
+}
+
+.links__bicycleRent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.links__bicycleRent-title {
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 7px;
+}
+
+.links__bicycleRent-item {
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+
+.links__items {
+    display: flex;
+    margin-left: 104px;
+}
+
+.links__items-item {
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 50px;
+}

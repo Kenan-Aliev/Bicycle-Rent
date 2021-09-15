@@ -1,0 +1,40 @@
+.contacts {
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+
+}
+
+.contacts__title {
+    font-weight: bold;
+    font-size: 36px;
+    color: #000000;
+}
+
+.contacts__number {
+    font-weight: 600;
+    font-size: 48px;
+    color: #000000;
+    margin-top: 50px;
+}
+
+.contacts__number2 {
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+    margin-top: 30px;
+}
+
+.contacts__email {
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+    margin-top: 30px;
+}
+
+.contacts__street {
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+    margin-top: 30px;
+}

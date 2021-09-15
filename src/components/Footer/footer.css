@@ -1,0 +1,12 @@
+.footer {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer__firstBlock {
+    background-color: #C4C4C4;
+}
+
+.footer__firstBlock .container {
+    display: flex;
+    background-color: #C4C4C4;
+}
